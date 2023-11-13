@@ -1,0 +1,23 @@
+.hurnes{
+ background-color: rgb(219, 216, 211);
+   padding: 10rem;
+}
+
+/* .hurnes *:not(input,button){
+    text-align: center;
+    width: 50%;
+} */
+
+.btn-soheil{
+    width: 10%;
+    margin-right: 40%;
+
+}
+
+.navbarColor{
+    background-image: linear-gradient(to right, #0ca6ff, #13f1a7 );
+}
+
+.mainBody{
+    background-image: linear-gradient(to right, #50e063, #fcc633 );
+}
